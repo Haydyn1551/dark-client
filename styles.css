@@ -18,3 +18,15 @@ body {
 hr {
 	max-width: 800px;
 }
+
+.change-box {
+	display: flex;
+	justify-content: center;
+}
+.writer {
+	margin-top: 40px;
+}
+
+.desc {
+	margin-left: 10px;
+}
